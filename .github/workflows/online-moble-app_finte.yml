@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'FINte'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D7BBC0237AC24BE2898813FB7DAB6FFA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8AF742DD81F349A7B9423E0C50727EDE }}
           package: .
